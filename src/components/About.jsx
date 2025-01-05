@@ -1,4 +1,4 @@
-import inspiration from '../images/inspiration.jpg';
+import inspiration from '/images/inspiration.jpg';
 
 const About = () => {
   return (
